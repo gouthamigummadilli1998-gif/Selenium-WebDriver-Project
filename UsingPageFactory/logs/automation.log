@@ -1,0 +1,104 @@
+2026-08-24 20:38:10 INFO  testcases.TC001_RegistrationPage - ********Strting TC001_RegistrationPage ********** 
+2026-08-24 20:38:10 INFO  testcases.TC001_RegistrationPage - ********Clicked on my account link ********** 
+2026-08-24 20:38:11 INFO  testcases.TC001_RegistrationPage - ********Clicked on my Register link********** 
+2026-08-24 20:38:11 INFO  testcases.TC001_RegistrationPage - ********providing customer details********** 
+2026-08-24 20:38:13 INFO  testcases.TC001_RegistrationPage - ********Validating expected message********** 
+2026-08-24 20:41:13 INFO  testcases.TC001_RegistrationPage - ********Strting TC001_RegistrationPage ********** 
+2026-08-24 20:41:13 INFO  testcases.TC001_RegistrationPage - ********Clicked on my account link ********** 
+2026-08-24 20:41:13 INFO  testcases.TC001_RegistrationPage - ********Clicked on my Register link********** 
+2026-08-24 20:41:13 INFO  testcases.TC001_RegistrationPage - ********providing customer details********** 
+2026-08-24 20:41:15 INFO  testcases.TC001_RegistrationPage - ********Validating expected message********** 
+2026-08-25 09:58:29 INFO  testcases.TC001_RegistrationPage - ********Strting TC001_RegistrationPage ********** 
+2026-08-25 09:58:29 INFO  testcases.TC001_RegistrationPage - ********Clicked on my account link ********** 
+2026-08-25 09:58:30 INFO  testcases.TC001_RegistrationPage - ********Clicked on my Register link********** 
+2026-08-25 09:58:30 INFO  testcases.TC001_RegistrationPage - ********providing customer details********** 
+2026-08-25 09:58:32 INFO  testcases.TC001_RegistrationPage - ********Validating expected message********** 
+2026-08-25 09:58:32 INFO  testcases.TC001_RegistrationPage - ********Validating finished********** 
+2026-08-25 09:59:41 INFO  testcases.TC001_RegistrationPage - ********Strting TC001_RegistrationPage ********** 
+2026-08-25 09:59:41 INFO  testcases.TC001_RegistrationPage - ********Clicked on my account link ********** 
+2026-08-25 09:59:42 INFO  testcases.TC001_RegistrationPage - ********Clicked on my Register link********** 
+2026-08-25 09:59:42 INFO  testcases.TC001_RegistrationPage - ********providing customer details********** 
+2026-08-25 09:59:44 INFO  testcases.TC001_RegistrationPage - ********Validating expected message********** 
+2026-08-25 09:59:44 INFO  testcases.TC001_RegistrationPage - ********Validating finished********** 
+2026-08-25 10:00:51 INFO  testcases.TC001_RegistrationPage - ********Strting TC001_RegistrationPage ********** 
+2026-08-25 10:00:52 INFO  testcases.TC001_RegistrationPage - ********Clicked on my account link ********** 
+2026-08-25 10:00:52 INFO  testcases.TC001_RegistrationPage - ********Clicked on my Register link********** 
+2026-08-25 10:00:52 INFO  testcases.TC001_RegistrationPage - ********providing customer details********** 
+2026-08-25 10:00:55 INFO  testcases.TC001_RegistrationPage - ********Validating expected message********** 
+2026-08-25 10:00:55 INFO  testcases.TC001_RegistrationPage - ********Validating finished********** 
+2026-08-25 10:25:05 INFO  testcases.TC001_RegistrationPage - ********Strting TC001_RegistrationPage ********** 
+2026-08-25 10:25:06 INFO  testcases.TC001_RegistrationPage - ********Clicked on my account link ********** 
+2026-08-25 10:25:06 INFO  testcases.TC001_RegistrationPage - ********Clicked on my Register link********** 
+2026-08-25 10:25:06 INFO  testcases.TC001_RegistrationPage - ********providing customer details********** 
+2026-08-25 10:25:10 INFO  testcases.TC001_RegistrationPage - ********Validating expected message********** 
+2026-08-25 10:25:10 INFO  testcases.TC001_RegistrationPage - ********Validating finished********** 
+2026-08-25 10:27:16 INFO  testcases.TC001_RegistrationPage - ********Strting TC001_RegistrationPage ********** 
+2026-08-25 10:27:16 INFO  testcases.TC001_RegistrationPage - ********Clicked on my account link ********** 
+2026-08-25 10:27:17 INFO  testcases.TC001_RegistrationPage - ********Clicked on my Register link********** 
+2026-08-25 10:27:17 INFO  testcases.TC001_RegistrationPage - ********providing customer details********** 
+2026-08-25 10:27:20 INFO  testcases.TC001_RegistrationPage - ********Validating expected message********** 
+2026-08-25 10:27:20 INFO  testcases.TC001_RegistrationPage - ********Validating finished********** 
+2026-08-25 10:39:22 INFO  testcases.TC001_RegistrationPage - ********Strting TC001_RegistrationPage ********** 
+2026-08-25 10:39:23 INFO  testcases.TC001_RegistrationPage - ********Clicked on my account link ********** 
+2026-08-25 10:39:23 INFO  testcases.TC001_RegistrationPage - ********Clicked on my Register link********** 
+2026-08-25 10:39:23 INFO  testcases.TC001_RegistrationPage - ********providing customer details********** 
+2026-08-25 10:39:26 INFO  testcases.TC001_RegistrationPage - ********Validating expected message********** 
+2026-08-25 10:39:26 INFO  testcases.TC001_RegistrationPage - ********Validating finished********** 
+2026-08-25 10:39:38 INFO  testcases.TC001_RegistrationPage - ********Strting TC001_RegistrationPage ********** 
+2026-08-25 10:39:38 INFO  testcases.TC001_RegistrationPage - ********Clicked on my account link ********** 
+2026-08-25 10:39:39 INFO  testcases.TC001_RegistrationPage - ********Clicked on my Register link********** 
+2026-08-25 10:39:39 INFO  testcases.TC001_RegistrationPage - ********providing customer details********** 
+2026-08-25 10:39:41 INFO  testcases.TC001_RegistrationPage - ********Validating expected message********** 
+2026-08-25 10:39:41 INFO  testcases.TC001_RegistrationPage - ********Validating finished********** 
+2026-08-25 10:43:18 INFO  testcases.TC001_RegistrationPage - ********Strting TC001_RegistrationPage ********** 
+2026-08-25 10:43:19 INFO  testcases.TC001_RegistrationPage - ********Clicked on my account link ********** 
+2026-08-25 10:43:19 INFO  testcases.TC001_RegistrationPage - ********Clicked on my Register link********** 
+2026-08-25 10:43:19 INFO  testcases.TC001_RegistrationPage - ********providing customer details********** 
+2026-08-25 10:43:22 INFO  testcases.TC001_RegistrationPage - ********Validating expected message********** 
+2026-08-25 10:43:22 INFO  testcases.TC001_RegistrationPage - ********Validating finished********** 
+2026-08-25 10:43:43 INFO  testcases.TC001_RegistrationPage - ********Strting TC001_RegistrationPage ********** 
+2026-08-25 10:43:43 INFO  testcases.TC001_RegistrationPage - ********Clicked on my account link ********** 
+2026-08-25 10:43:44 INFO  testcases.TC001_RegistrationPage - ********Clicked on my Register link********** 
+2026-08-25 10:43:44 INFO  testcases.TC001_RegistrationPage - ********providing customer details********** 
+2026-08-25 10:43:46 INFO  testcases.TC001_RegistrationPage - ********Validating expected message********** 
+2026-08-25 10:43:46 INFO  testcases.TC001_RegistrationPage - ********Validating finished********** 
+2026-08-25 11:14:16 INFO  testcases.TC001_RegistrationPage - ********Strting TC001_RegistrationPage ********** 
+2026-08-25 11:14:16 INFO  testcases.TC001_RegistrationPage - ********Clicked on my account link ********** 
+2026-08-25 11:14:17 INFO  testcases.TC001_RegistrationPage - ********Clicked on my Register link********** 
+2026-08-25 11:14:17 INFO  testcases.TC001_RegistrationPage - ********providing customer details********** 
+2026-08-25 11:14:18 INFO  testcases.TC001_RegistrationPage - ********Validating expected message********** 
+2026-08-25 11:14:20 INFO  testcases.TC001_RegistrationPage - ********Validating finished********** 
+2026-08-26 13:22:17 INFO  testcases.TC002_LoginTest - ******Starting TC002_LoginTest *******
+2026-08-26 13:24:00 INFO  testcases.TC002_LoginTest - ******Starting TC002_LoginTest *******
+2026-08-26 13:30:52 INFO  testcases.TC002_LoginTest - ******Starting TC002_LoginTest *******
+2026-08-26 13:33:30 INFO  testcases.TC002_LoginTest - ******Starting TC002_LoginTest *******
+2026-08-26 13:37:25 INFO  testcases.TC002_LoginTest - ******Starting TC002_LoginTest *******
+2026-08-26 13:38:37 INFO  testcases.TC002_LoginTest - ******Starting TC002_LoginTest *******
+2026-08-26 13:41:25 INFO  testcases.TC002_LoginTest - ******Starting TC002_LoginTest *******
+2026-08-26 13:47:49 INFO  testcases.TC002_LoginTest - ******Starting TC002_LoginTest *******
+2026-08-26 13:48:01 INFO  testcases.TC002_LoginTest - ******Finished TC002_LoginTest *******
+2026-08-26 17:21:09 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-26 17:21:21 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-26 17:21:31 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-26 17:21:41 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-26 17:21:51 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-26 18:26:12 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-26 18:26:25 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-26 18:26:35 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-26 18:26:45 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-26 18:26:55 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-26 18:35:28 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-26 18:35:41 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-26 18:35:51 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-26 18:36:02 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-26 18:36:12 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-30 08:51:19 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-30 08:51:32 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-30 08:51:42 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-30 08:51:52 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-30 08:52:02 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-30 09:16:39 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-30 09:16:52 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-30 09:17:02 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-30 09:17:12 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
+2026-08-30 09:17:22 INFO  testcases.TC003_LoginDDT - ****** Starting TC003_LoginDDT ******
